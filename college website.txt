@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>FG Degree College Hyderabad
+        </title>
+    </head>
+    <body bgcolor="#EBF5FB">
+
+        <!--HEADER-->
+        <table width="100%" bgcolor="#154360 cellpadding=15">
+            <tr>
+                <td align="center">
+                <img src="photos/logo.png" width="80"><br><br>
+                <font color="white" size="6"><b>FG DEGREE COLLEGE HYDERABAD</b></font><br>
+                <font color="white" size="4">EXCELLENCE | INTEGRITY | INNOVATION</font>
+                </td>
+            </tr>
+        </table>
+
+        <!--NAVIGATION-->
+        <table width="100%" bgcolor="#1F618D" cellpadding="10">
+            <tr>
+                <td align="center">
+                    <font color="white">
+                    <a href="C:\Users\Lenovo\Desktop\menu\home.html"><font color="white">Home</font></a>|
+                    <a href="#about"><font color="white">About</font></a>|
+                    <a href="#mission"><font color="white">Mission</font></a>|
+                    <a href="#courses"><font color="white">Courses</font></a>|
+                    <a href="gallery"><font color="white">Gallery</font></a>|
+                    <a href="#contact"><font color="white">Contact</font></a>
+                    </font>
+                </td>
+            </tr>
+        </table>
+
+        <br>
+        <!--HOME-->
+        <a name="home"></a>
+        <table width="90%" align="center" bgcolor="white" cellpadding="14">
+            <tr>
+                <td>
+                    <h2>Welcome To FG Degree College Hyderabad</h2>
+                    <img src="photos/building.jpg" width="100%">
+                    <p>FG Degree College Hyderabad is commited to academic excellence. The institution provides a disciplined learning environmentthat nurtures knowledge, integrity and leadereship</p>
+                </td>
+            </tr>
+        </table>
+
+        <br>
+
+        <!--ABOUT-->
+        <a name="about"></a>
+        <table width="90%" align="center" bgcolor="#FDFEFE" cellpadding="14">
+            <tr>
+                <td>
+                    <h2>About Us</h2>
+                    <p>
+                        FG Degree College Hyderabad was established to provide quality education and learning opportunities to students.
+                    </p>
+
+                    <ul>
+                        <li>Experienced teachers</li>
+                        <li>Modern classrooms</li>
+                        <li>Affordable fee strucrure</li>
+                    </ul>
+                    <img src="photos/college building.jpg" width="300">
+                </td>
+            </tr>
+        </table>
+        
+        <br>
+
+        <!--MISSION-->
+        <a name="mission"></a>
+        <table width="90%" align="center" bgcolor="#1F618D" cellpadding="14">
+            <tr>
+                <td>
+                    <h2>Our Mission</h2>
+                    <p>We aim to develop knowledgeable, responsible and confident individuals prepared to serve society and the nation</p>
+                </td>
+            </tr>
+        </table>
+
+        <br>
+
+        <!--COURSES-->
+        <a name="courses"></a>
+        <table width="90%" align="center" bgcolor="white" cellpadding="14" border="1">
+            <tr bgcolor="#AED6F1">
+                <th>COURSES</th>
+                <th>DURATION</th>
+                <th>FEE</th>
+            </tr>
+            <tr>
+                <td>BS Computer Science</td>
+                <td>4 years</td>
+                <td>Affordable</td>
+            </tr>
+            <tr>
+                <td>BSCS</td>
+                <td>4 years</td>
+                <td>Affordable</td>
+            </tr>
+            <tr>
+                <td>Intermediate</td>
+                <td>2 years</td>
+                <td>Affordable</td>
+            </tr>
+        </table>
+        
+        <br>
+
+        <!--GALLERY-->
+        <a name="gallery"></a>
+        <table width="90%" align="center" bgcolor="white" cellpadding="14">
+            <tr>
+                <td align="center">
+                    <h2>Gallery</h2>
+                    <img src="photos/college students.jpeg" width="200">
+                    <img src="photos/college classroom.jpeg" width="200">
+                    <img src="photos/college building.jpg" width="200">
+                </td>
+            </tr>
+        </table>
+        
+        <br>
+
+        <!--CONTACT-->
+        <a name="contact"></a>
+        <table width="90%" align="center" bgcolor="#AED6F1" cellpadding="14">
+            <tr>
+                <td>
+                    <h2>Contact Us</h2>
+                    <p>
+                        <b>Adress:</b>Cantonment, Hyderabad<br>
+                        <b>Email:</b>info@fgdegreecollege.edu<br>
+                        <b>Phone:</b>(022)9200336
+                    </p>
+                    <form>
+                        Name:<br>
+                        <input type="text"><br><br>
+                        Message:<br>
+                        <textarea rows="4"></textarea><br><br>
+                        <input type="submit" value="Submit">
+                    </form>
+                </td>
+            </tr>
+        </table>
+        <br>
+        <!--FOOTER-->
+        <table width="100%" bgcolor="#154360" cellpadding="11">
+            <tr>
+                <td align="center">
+                    <font color="white">2025 FG Degree College. All Rights Reserved.</font>
+                </td>
+            </tr>
+        </table>
+        
+    </body>
+</html>
